@@ -19,7 +19,6 @@ sudo apt install -y \
     wget curl ca-certificates gnupg lsb-release \
     git vim nano htop tmux screen \
     net-tools lsof iptables \
-    apt-utils software-properties-common \
     unzip zip tar gzip bzip2 xz-utils \
     jq
 sudo apt install -y \
